@@ -1,0 +1,34 @@
+author: Lucy D'Agostino McGowan
+
+instructor:
+  name: Dr. Lucy D'Agostino McGowan
+  name_no_title: Lucy D'Agostino McGowan
+  email: mcgowald@wfu.edu
+  url: "https://www.lucymcgowan.com"
+  twitter: LucyStats
+  github: LucyMcGowan
+  office: "Manchester 342"
+  officehrs: "Monday 10:00a-11:00a;"
+  appointment_url: "https://bit.ly/lucystats-office-hours"
+
+course:
+  title: "Causal Inference"
+  subtitle: "From correlation to causation.  The goal of this course is to give students the skills needed to conduct analyses and communicate results when causality is the goal. Students will learn how to implement causal inference techniques including matching and weighting, evaluate assumptions, and conduct sensitivity analyses."
+  number: "STA 679"
+  semester: "Fall 2023"
+  time: "Mon/Wed 12:30p"
+  location: "Manchester 17"
+  github: "https://github.com/sta-679-f23/website"
+  url: "https://sta-679-f23.github.io/website"
+  copyright_year: "2023"
+  text: | 
+    The main text book is: [Causal Inference in R](https://www.r-causal.org)  by Malcolm Barrett, Lucy D'Agostino McGowan, and Travis Gerke -- it is freely available online.
+
+
+university:
+  name: Wake Forest University
+  url: "https://www.wfu.edu"
+
+school:
+  name: Department of Statistical Sciences
+  url: "https://stats.wfu.edu/"
