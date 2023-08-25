@@ -18,7 +18,7 @@ execute:
 
 website:
   title: "Causal Inference"
-  site-url: "https://sta-679-f23.github.io/website"
+  site-url: "https://sta-779-f23.github.io/website"
   navbar:
     pinned: true
     background: "#c0428a"

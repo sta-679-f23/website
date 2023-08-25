@@ -14,7 +14,7 @@ instructor:
 course:
   title: "Causal Inference"
   subtitle: "From correlation to causation.  The goal of this course is to give students the skills needed to conduct analyses and communicate results when causality is the goal. Students will learn how to implement causal inference techniques including matching and weighting, evaluate assumptions, and conduct sensitivity analyses."
-  number: "STA 679"
+  number: "STA 779"
   semester: "Fall 2023"
   time: "Mon/Wed 12:30p"
   location: "Manchester 17"
