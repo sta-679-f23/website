@@ -33,7 +33,7 @@ Students with disabilities who believe that they may need accommodations in the 
 
 #### Discussion:
 
-All course discussion will be on Canvas.
+All course discussion will be on GitHub.
 
 This is a place to post your course-related questions. I encourage you to try to answer each other's questions. At the end of the semester, I will tally up the total number of questions answered and you can get up to 1 point extra credit on your final grade.
 
@@ -49,7 +49,7 @@ For Academic issues please see the [College Judicial System](https://studentcond
 
 ### Sharing code & responses
 
--   There are many online resources for sharing code (for example, StackOverflow) - you **may** use these resources but **must explicitly cite** where you have obtained code (both code you used directly and "paraphrased" code / code used as inspiration). Any reused code that is not explicitly cited will be treated as plagiarism.
+-   There are many online resources for getting help with code (for example, StackOverflow, ChatGPT) - you **may** use these resources for application exercises and labs but **must explicitly cite** where you have obtained code (both code you used directly and "paraphrased" code / code used as inspiration). Any reused code that is not explicitly cited will be treated as plagiarism. You **may not** use these resources for Check-ins or exams.
 -   Rather than copying someone else's work, ask for help. You are not alone in this course!
 
 ## Course components
