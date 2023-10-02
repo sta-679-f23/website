@@ -64,7 +64,7 @@ The objective of the labs is to give you hands on experience with data analysis 
 
 ### Check-ins
 
-We will periodically have assessments to check in with our learning goals.
+We will periodically have assessments to check in with our learning goals. 
 
 ## Grading
 
