@@ -37,4 +37,4 @@ sidebar: false
 
 ### Materials
 
-This class is very hands on; be sure to bring a fully charged laptop to every class.
+This class is very hands on; be sure to bring a fully charged laptop to every class
